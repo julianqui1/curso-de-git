@@ -1,0 +1,98 @@
+commit 3d08df1c116515a7fd47dbf289d841b6d69655e6
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 16:28:18 2023 -0500
+
+    Agregando dos parrafos
+
+commit 8e45ef8eba66b02046d37c4a920b905c70640276
+Merge: 9236303 e12d145
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 16:25:54 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 923630389694621ac6a9f1cb9044058daa4caf64
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 16:09:36 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit e12d145e64c1b71a6ddf8ddb5cc406dcbba824c9
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 16:09:36 2023 -0500
+
+    Agregando las estaciones del año
+
+commit b31c06a956b091e575c033a3748e2173e69af539
+Merge: bf4a49c d4f014d
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 15:09:46 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit d4f014dc66e77e3d4326235d6742f7d8ce9a357b
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 15:02:40 2023 -0500
+
+    Agregando index.js al index.html
+
+commit bf4a49c27329c020457f1d1842c7483224ba8fb2
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 14:59:23 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 3ff5d8cbf6507f3e7c7e83c37dc6ed998cdf023f
+Merge: 1c6bd56 1afe391
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 14:49:24 2023 -0500
+
+    Merge branch 'js'
+
+commit 1afe391c87d1249aad220e65bcfe04f35b021ab9
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 14:44:21 2023 -0500
+
+    Creando index.js
+
+commit 1c6bd5628703ae9e917dd5bab419f6e9bbabc016
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 14:39:05 2023 -0500
+
+    Creando style.css
+
+commit 8c317e59e8c779b66e4f5a9caaf33e07f125c484
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Thu Nov 23 14:32:03 2023 -0500
+
+    Creando index.html
+
+commit 8b372e2ae865dc51f58ffe2fc7c9eeaa9530ee78
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Wed Nov 22 16:46:13 2023 -0500
+
+    Ignorando archivos .exe
+
+commit ec33a3e43126b157557995a1a2820264fa8f8e06
+Author: Julian <44033336+julianqui1@users.noreply.github.com>
+Date:   Wed Nov 22 15:57:45 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 28eedfdfcc5d843756675abbea5c625c2b6a43f0
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Tue Nov 21 17:00:32 2023 -0500
+
+    Agregando mas contenido al README
+
+commit e05d8d9ad3f964cad332c3d5d8cec2fc1e2561f5
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Tue Nov 21 16:47:28 2023 -0500
+
+    Agregando contenido principal al README
+
+commit b39c520ad0fa8a473e9f23b614e4fde5805ab708
+Author: julianqui1 <julianquintero0111@gmail.com>
+Date:   Tue Nov 21 16:38:28 2023 -0500
+
+    Primer commit
